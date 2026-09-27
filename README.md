@@ -4,6 +4,14 @@ A lightweight, stylized TUI management suite for **Ghostty** terminal emulator. 
 
 ---
 
+## Previews
+
+| Main Menu | Shader Selector | Starship Setup |
+| :---: | :---: | :---: |
+| ![Main Menu](./docs/ghosttymgr1.png) | ![Shader Menu](./docs/ghosttymgr2.png) | ![Starship Setup](./docs/ghosttymgr3.png) |
+
+---
+
 ## Features
 
 - 🎨 **Theme Switcher:** Quick access to Ghostty's native theme browser (`ghostty +list-themes`).
