@@ -8,7 +8,7 @@ A lightweight, stylized TUI management suite for **Ghostty** terminal emulator. 
 
 | Main Menu | Shader Selector | Starship Setup |
 | :---: | :---: | :---: |
-| ![Main Menu](./docs/ghosttymgr1.png) | ![Shader Menu](./docs/ghosttymgr2.png) | ![Starship Setup](./docs/ghosttymgr3.png) |
+| ![Main Menu](./docs/ghosttymgr3.png) | ![Shader Menu](./docs/ghosttymgr2.png) | ![Starship Setup](./docs/ghosttymgr1.png) |
 
 ---
 
